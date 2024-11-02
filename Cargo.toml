@@ -6,3 +6,9 @@ edition = "2021"
 [dependencies]
 colored = "2.1.0"
 rand = "0.8.5"
+
+[[bin]]
+name = "yxw"
+
+[[bin]]
+name = "gates"
